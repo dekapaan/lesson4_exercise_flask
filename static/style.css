@@ -1,3 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: url(../static/claudio-schwarz-r1ackBZKmRg-unsplash.jpg);
+  background-size: cover;
+  color: white;
+}
+
+h1 {
+margin-bottom: 20px;
+}
+
 th {
 width: 100px
 }
@@ -6,9 +20,8 @@ text-align: left;
 border
 }
 
-th {
-margin: 0;
-border-bottom: 2px solid black;
-border-left: 2px solid black;
+th, td {
+border-bottom: 2px solid white;
+border-left: 2px solid white;
 }
 
