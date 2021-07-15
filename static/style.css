@@ -1,0 +1,14 @@
+th {
+width: 100px
+}
+table {
+text-align: left;
+border
+}
+
+th {
+margin: 0;
+border-bottom: 2px solid black;
+border-left: 2px solid black;
+}
+
